@@ -1,11 +1,11 @@
-    streamlit
-    pymupdf
-    mistralai
-    langchain
-    langchain-community
-    langchain-groq
-    faiss-cpu
-    beautifulsoup4
-    pillow
-    requests
-    numpy
+streamlit
+pymupdf
+mistralai
+langchain==0.2.12
+langchain-community==0.2.12
+langchain-groq
+faiss-cpu
+beautifulsoup4
+pillow
+requests
+numpy
